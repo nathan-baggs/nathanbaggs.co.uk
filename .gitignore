@@ -19,5 +19,4 @@ Makefile
 compile_commands.json
 .vscode/
 .cache
-assets/
 node_modules/
